@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# File uploads
+uploads/
+
+# Generated Excel reports
+*.xlsx
+
+# Logs
+*.log
+logs/
+
+# OS-specific
+.DS_Store
+
+# Editor settings
+.vscode/
+.idea/
